@@ -18,5 +18,10 @@
 |Input Format<br />The first line contains an integer that you must sum with i.<br />The second line contains a double that you must sum with d.<br />The third line contains a string that you must concatenate with s.<br /><br />Output Format<br />Print the sum of both integers on the first line, the sum of both doubles (scaled to 1<br />decimal place) on the second line, and then the two concatenated strings on the third<br />line.<br />Sample Input<br />12<br />is the best place to learn and practice coding!<br />Sample Output<br />16<br />8.0<br />HackerRank is the best place to learn and practice coding!|
 |-|
 
+|Q5| DAY 5:
+
+|Task<br />Given an integer, n, print its first 10 multiples. Each multiple n x i (where 1 <\_i<\_ 10)<br />should be printed on a new line in the form: n x i= result.<br />Example<br />n=3|
+|-|
+
 
 
